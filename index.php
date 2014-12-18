@@ -10,7 +10,7 @@ include 'header.php';
 <form action='exer.php' method="post">
   <table>
     <tr>
-      <td><b>University Roll No. :</b></td>
+      <td><b>Username :</b></td>
 <td>
       <input type=text name="roll" size=11 maxlength=11 align=LEFT>
 </td>
